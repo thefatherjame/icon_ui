@@ -1,0 +1,13 @@
+import "./qrcode.min.js";
+import "./icon_ui/empty/empty_widget.js";
+import "./icon_ui/widgets/base_widget.js";
+import "./icon_ui/widgets/chart_widget.js";
+import "./icon_ui/widgets/custom_block_widget.js";
+import "./icon_ui/widgets/links_widget.js";
+import "./icon_ui/widgets/new_widget.js";
+import "./icon_ui/widgets/number_card_widget.js";
+import "./icon_ui/widgets/onboarding_widget.js";
+import "./icon_ui/widgets/quick_list_widget.js";
+import "./icon_ui/widgets/shortcut_widget.js";
+import "./icon_ui/widgets/widget_dialog.js";
+import "./icon_ui/widgets/widget_group.js";

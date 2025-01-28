@@ -25,8 +25,8 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/icon_ui/css/icon_ui.css"
-# app_include_js = "/assets/icon_ui/js/icon_ui.js"
+app_include_css = "/assets/icon_ui/css/widget_icon.css"
+app_include_js = "widget.bundle.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/icon_ui/css/icon_ui.css"
@@ -51,7 +51,7 @@ app_license = "mit"
 # Svg Icons
 # ------------------
 # include app icons in desk
-# app_include_icons = "icon_ui/public/icons.svg"
+app_include_icons = "icon_ui/icon/custom_icon/icons.svg"
 
 # Home Pages
 # ----------
@@ -241,4 +241,8 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
+
+fixtures = [
+    "Custom Field"
+]
 
