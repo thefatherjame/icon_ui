@@ -14,7 +14,7 @@
     "name": "Workspace Shortcut-custom_app_icon", 
     "dt": "Workspace Shortcut",
     "label": "Icon Color",
-    "fieldname": "custom_custom_app_icon",
+    "fieldname": "custom_app_icon",
     "fieldtype": "Color",
     "insert_after": "app_icon",
     "description": "Custom field for app icon",
